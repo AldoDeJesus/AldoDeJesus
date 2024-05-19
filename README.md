@@ -1,17 +1,47 @@
+
+
+
 ### Hi there 👋
-<h1 align="center">Soy Aldo De Jesus width="30px"</h1>
-<h3 font-size="20" align="center">Apasionado del desarrollo frontEnd y el diseño UI/UX</h3>
-<!--
-**AldoDeJesus/AldoDeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Aldo de Jesus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <div class="container">
+        <h1>Mi Perfil</h1>
+        <h2>Nombre</h2>
+        <p>Juan Pérez</p>
+
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Desarrollo web</li>
+            <li>Diseño gráfico</li>
+            <li>Gestión de proyectos</li>
+        </ul>
+
+        <h2>Estudios</h2>
+        <p>Ingeniería en Sistemas Computacionales - Universidad ABC</p>
+
+        <h2>Pasiones</h2>
+        <ul>
+            <li>Tecnología</li>
+            <li>Videojuegos</li>
+            <li>Música</li>
+        </ul>
+
+        <h2>Lenguajes Usados</h2>
+        <ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>HTML/CSS</li>
+        </ul>
+
+        <h2>Tecnologías</h2>
+        <ul>
+            <li>React</li>
+            <li>Node.js</li>
+            <li>Django</li>
+        </ul>
+
+        <div class="footer">
+            <p>&copy; 2024 Juan Pérez</p>
+        </div>
+    </div>
