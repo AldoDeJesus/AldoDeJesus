@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h1 align="center">Soy Aldo De Jesus width="30px"</h1>
+<h3 font-size="20" align="center">Apasionado del desarrollo frontEnd y el diseño UI/UX</h3>
 <!--
 **AldoDeJesus/AldoDeJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
